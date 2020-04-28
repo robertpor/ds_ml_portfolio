@@ -25,5 +25,4 @@ In this notebook I follow a tutorial by sentdex (reputable Youtuber, WEBSITE: PY
 In this folder, there are python scripts I created while following a tutorial by sentdex on Reinforcement Learning
 
 ### census_data_1994 
-*Work in Progress*
 In this notebook, I am exploring the presented dataset and try following a structured approach for a ML project as found in the project guidelines in HOML.
